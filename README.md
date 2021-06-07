@@ -5,8 +5,8 @@ This repository contains supplementary files, scripts and notebooks of our manus
 
 ## Ribo File
 
-The ribo file that contains ribosome profiling and matched RNA-Seq data is available in 
-[this link](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158374/suppl/GSE158374_manuscript.ribo.hdf5). 
+The ribo files, containing ribosome profiling and matched RNA-Seq data, are available in 
+[this link](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158374/suppl/). 
 
 ## NSP1 and NSP2 Sequences
 
